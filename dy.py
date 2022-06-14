@@ -1,4 +1,5 @@
 import telebot
+from telebot import * 
 import requests
 token = "5074623092:AAEEMwO9XrN_ElW2uoVuQ-19CF_iPsK3nAA"
 sudo_user = "h_69053" # يوزرك بدون @
